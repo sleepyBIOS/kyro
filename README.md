@@ -1,6 +1,7 @@
 # kyro
 
 this a lil documentation idk what else to say
+NOTE: you need to have V1.1 AHK installed. https://www.autohotkey.com/
 
 ## table of stuff lol
 
